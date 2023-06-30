@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[313],{313:function(e){e.exports=JSON.parse('{"auth0":{"domain":"rb-talent-dev.us.auth0.com","clientId":"moTw5GAllMxl03ZV7oNlphONNkXF8Gda","redirectUri":"http://localhost:3000","audience":"https://talent-dev.rightbalance.io","scope":"openid profile email"}}')}}]);
